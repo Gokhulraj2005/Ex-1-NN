@@ -2,7 +2,7 @@
 <H3>ENTER YOUR REGISTER NO.</H3>   212223230064
 <H3>EX. NO.1</H3>
 
-<H3>DATE</H3>21-04-2026
+<H3>DATE</H3>21/04/2026
 
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
